@@ -1,16 +1,65 @@
-# React + Vite
+# Bhuvan G R — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio website built with React and Vite. Showcases projects, skills, and experience as a full-stack developer.
 
-Currently, two official plugins are available:
+**Live Demo:** [https://persnol-web.vercel.app](https://persnol-web.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Frontend:** React, Vite, Tailwind CSS
+- **Animations:** Framer Motion
+- **Icons:** React Icons
+- **Contact Form:** EmailJS
+- **Deployment:** Vercel
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Responsive design with mobile hamburger menu
+- Project showcase with GitHub and live demo links
+- Skills section with categorized tech stack
+- Working contact form via EmailJS
+- Smooth scroll navigation
+
+---
+
+## Projects Showcased
+
+- **Chatbot Web Application** — Multi-user AI chatbot platform (Node.js, Express, PostgreSQL, React, OpenRouter API)
+- **Employee Management System** — Django-based HR tool (Python, Django, SQLite3)
+- **Heart Disease Prediction Web App** — ML-powered health prediction tool (Flask, Scikit-learn, MySQL)
+
+---
+
+## Run Locally
+
+```bash
+git clone https://github.com/bhuvangujjarbhuvan-ctrl/Persnol_Web.git
+cd Persnol_Web
+npm install
+```
+
+Create a `.env` file in the root directory:
+
+```
+VITE_EMAILJS_SERVICE_ID=your_service_id
+VITE_EMAILJS_TEMPLATE_ID=your_template_id
+VITE_EMAILJS_PUBLIC_KEY=your_public_key
+```
+
+Then start the dev server:
+
+```bash
+npm run dev
+```
+
+---
+
+## Contact
+
+- **Email:** bhuvangujjarbhuvan@gmail.com
+- **LinkedIn:** [linkedin.com/in/bhuvan-gr-160b98265](https://linkedin.com/in/bhuvan-gr-160b98265)
+- **GitHub:** [github.com/bhuvangujjarbhuvan-ctrl](https://github.com/bhuvangujjarbhuvan-ctrl)
