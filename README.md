@@ -2,7 +2,7 @@
 
 Personal portfolio website built with React and Vite. Showcases projects, skills, and experience as a full-stack developer.
 
-**Live Demo:** [(https://bhuvangr.vercel.app/)]((https://bhuvangr.vercel.app/))
+**Live Demo:** [https://bhuvangr.vercel.app/](https://bhuvangr.vercel.app/)
 
 ---
 
