@@ -35,6 +35,7 @@ export default function Projects() {
         "Django-based HR tool to manage employee records, departments, roles, and attendance with full CRUD operations, structured data validation, and a clean HTML/CSS interface backed by SQLite3.",
       technologies: ["Python", "Django", "SQLite3", "Django ORM"],
       github: "https://github.com/bhuvangujjarbhuvan-ctrl",
+      live: "https://cornexus.up.railway.app",
     },
     {
       id: "03",
